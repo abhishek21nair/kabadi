@@ -37,6 +37,6 @@ return [
     'google' => [
     'client_id' => env('325988092753-074sf4s7k452ovjnoujraveqb66pur27.apps.googleusercontent.com'),         // Your GitHub Client ID
     'client_secret' => env('M67-kjfsj78jzjy2drC85dvc'), // Your GitHub Client Secret
-    'redirect' => 'http://127.0.0.1:8000/login/google/callback',
+    'redirect' => 'http://159.89.170.51:8000/login/google/callback',
     ],
 ];
